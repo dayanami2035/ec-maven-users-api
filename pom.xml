@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.cloudnative.academy</groupId>
-    <artifactId>mi-aplicacion-java</artifactId>
+    <artifactId>ec-maven-users-api</artifactId>
     <version>2.0.0</version>
     <packaging>jar</packaging>
 
-    <name>mi-aplicacion-java</name>
+    <name>ec-maven-users-api</name>
     <description>Proyecto de ejemplo con Spring Boot y pruebas unitarias</description>
 
     <properties>
