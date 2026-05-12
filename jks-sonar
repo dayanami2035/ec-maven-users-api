@@ -33,7 +33,7 @@ pipeline {
                     sh """
                         mvn sonar:sonar \
                         -Dsonar.organization=dayanami2035 \
-                        -Dsonar.projectKey=ec-maven-users-api \
+                        -Dsonar.projectKey=dayanami2035_ec-maven-users-api \
                         -Dsonar.projectName=ec-maven-users-api \
                         -Dsonar.sources=src/main/java \
                         -Dsonar.java.binaries=target/classes \
